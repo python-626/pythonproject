@@ -1,0 +1,11 @@
+#download and install git
+#create account inn github
+#git config --global user.name "Niyanta Vaidya"
+#git config --global user.name "niyantavaidya@2030gmail.com"
+#go to project folder
+#git init
+#git add .
+#git commit -m "webscrapping"
+git push origin
+
+
